@@ -14,3 +14,7 @@ This project is a web application designed to predict calories burnt based on va
 - Flask : Flask was used for creating the web application interface.
 - Scikit-learn: For implementing the machine learning model.
 - Pandas & NumPy : For data manipulation and analysis.
+
+## Live App
+You can try the live version of the app here:  
+[**Click to open the app**](https://calories-burnt-app.onrender.com)
